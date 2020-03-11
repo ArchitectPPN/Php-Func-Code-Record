@@ -1,6 +1,0 @@
-{
-    "require": {
-        "ppn/sensitive": "dev-master",
-        "expalmer/php-bad-words": "^0.1.3"
-    }
-}
