@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ppn/sensitive": "^1.1"
+    }
+}
