@@ -11,5 +11,4 @@ function createFile($sFileName, $iLoops = 500)
 	echo 'success';
 }
 
-
 createFile('./面试题总汇-MySQL.md');
